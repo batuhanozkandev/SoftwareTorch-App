@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "71556532338",
+    "project_id": "softwaretorchapp",
+    "storage_bucket": "softwaretorchapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71556532338:android:d4074b98629bc297dc9aeb",
+        "android_client_info": {
+          "package_name": "com.example.softwaretorchapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71556532338-lsc02tjookipbqebn1vq72l39qf4ec2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaYuz_7f7NrZSXEs17v3t5G5QRGIp5GtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71556532338-lsc02tjookipbqebn1vq72l39qf4ec2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
